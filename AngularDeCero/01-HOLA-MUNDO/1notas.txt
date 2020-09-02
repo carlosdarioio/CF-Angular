@@ -1,0 +1,14 @@
+para ejecutar 
+abrir cmd
+ir a esta dir
+cd C:\Users\cdfn3\Documents\GitHub\CF-Angular\AngularDeCero\01-HOLA-MUNDO
+
+pones 
+ng serve
+
+--dejar de correo el proyecto
+
+en cmd pone ctrl+c
+
+
+/* ``=ctrl+96 */

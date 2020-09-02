@@ -1,0 +1,48 @@
+e2e q es
+sirve para correr pruebas automaticas
+
+node_modules
+contiene los paquetes que instala, con el fin de desarrollo
+
+.editorconfig
+conf sel servidor
+
+.gitnore
+archivos a ignorar cuando subis tus proyectos a github
+
+angular.json
+describe como es nuestra aplicacion y con que funciones, 
+
+package lock json
+menciona como fue creado nuestro proyecto, dejando rastros de como se crea el archivo package json
+
+package.json
+no tocas nada, este archivo es para dependencias de desarrollo  que ocuparemos
+
+readmen.md
+archivo para describir en github como funciona nuestra aplicacion 
+
+tsconfig.json
+le dice a typeSrcipt como trabajar, describeidno el esx a utilizar y mucho mas
+
+rslint.json
+sirve para forzarnos a escribir el codigo correctamente
+
+src
+carpeta donde esta nuestra aplicacion donde trabajamos
+
+src/app
+primer componente que nuestra aplicacion de angular crea
+
+.spec
+sirve pruebas automaticas
+
+assets
+colocar recursos
+
+main.ts
+primer codigo que ejecutara la aplicacion, no tocar
+
+styles.css
+archivo de estilos css globales
+

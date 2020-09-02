@@ -1,0 +1,9 @@
+Angular cuando crees la aplicacion
+ahora
+cuando creas proyectp poner
+ng new miApp
+apretas enter
+ahora pregunta 2 cosas 
+cuando dice routing pones n
+css
+despues de eso crea la aplicacion

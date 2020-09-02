@@ -1,0 +1,10 @@
+para instalar paquetes de node 
+abrir cmd
+ir a direccion donde queres el proyecto
+poner
+ng new my-app
+
+despues te saldran dos preguntas
+en seccione pusiste
+n
+css

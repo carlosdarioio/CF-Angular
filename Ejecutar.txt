@@ -1,0 +1,7 @@
+cmd ir a dir
+
+poner
+
+ng serve -o
+
+ng vser -p 4000 --si queres poner host
