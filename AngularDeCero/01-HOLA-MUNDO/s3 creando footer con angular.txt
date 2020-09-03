@@ -1,0 +1,10 @@
+abrir cmd
+
+ng generate component carpeta/nombredelcomponente
+
+
+Resumido:
+ng g c components/footer
+
+....
+asi creo la carpeta footer con los archivos css, html, y ts para que solo los edites y agreas donde van

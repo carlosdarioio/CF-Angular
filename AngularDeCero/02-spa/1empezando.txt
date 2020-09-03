@@ -1,0 +1,18 @@
+crear proyecto
+abrir cmd como admin
+
+ir a dir
+
+poner:crear
+ng new spa
+
+iniciar:
+ng serve -o
+
+crear navbar:
+ng g c components/shared/navbar
+
+
+-- 
+si dejas el puerto por fault(4200)
+comproba que no este en uso x ejemplo ejecutando otra app con el mismo puerto
